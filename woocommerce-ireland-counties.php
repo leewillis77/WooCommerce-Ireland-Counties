@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: WooCommerce IE Counties
+Plugin Name: IE Counties for WooCommerce
 Plugin URI: http://plugins.leewillis.co.uk/donate/
 Description: A short plugin that adds Rep. of Ireland postal counties to WooCommerce's list of states.
 Version: 1.0
